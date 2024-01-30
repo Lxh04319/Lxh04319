@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-就离谱
+离谱
+
 ---
 
 ![Visitor Count](https://profile-counter.glitch.me/lxh11111/count.svg) visitor
