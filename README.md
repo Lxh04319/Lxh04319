@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-离谱
+就离谱
 
 ![Visitor Count](https://profile-counter.glitch.me/lxh11111/count.svg) visitor
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxh11111)](https://github.com/lxh11111/github-readme-stats)
+
+![lxh11111's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxh11111&show_icons=true&theme=tokyonight)
 <!--
 **lxh11111/lxh11111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
