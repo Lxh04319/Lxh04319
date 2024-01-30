@@ -6,11 +6,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxh11111)](https://github.com/lxh11111/github-readme-stats)
 
-![lxh11111's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxh11111&show_icons=true&theme=tokyonight)
-<!--
-**lxh11111/lxh11111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+
+![decription](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)   图标太难找了 先鸽
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
