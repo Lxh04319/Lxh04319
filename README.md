@@ -1,6 +1,10 @@
-### Hi there 👋
+### 
 
-离谱
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=emm...;Hello+World+!&center=true&color=#32CD32&font=Lato)](https://git.io/typing-svg)
+
+---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lxh11111&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -15,7 +19,6 @@
 ![decription](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)   图标太难找了 先鸽
 
 ---
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hello,World!&center=true&size=27"> </a> </h1>
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
