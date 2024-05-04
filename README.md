@@ -8,7 +8,7 @@
 - 📫 How to reach me: star04319@outlook.com
 
 ### My Skill Set  
-<table><tr><td valign="top" width="30%">
+<table><tr><td valign="top" width="32%">
   
 #### Learning now  
 <div align="center">  
@@ -24,7 +24,7 @@
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="48" /></a>  
 </div>
 
-</td><td valign="top" width="30%">
+</td><td valign="top" width="32%">
 
 #### Plan  
 <div align="center">  
@@ -39,7 +39,7 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="48" /></a>  
 </div>
 
-</td><td valign="top" width="30%">
+</td><td valign="top" width="32%">
 
 #### Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxh11111&layout=compact)
