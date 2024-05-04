@@ -4,7 +4,7 @@
 # Up to now, there have been ![Visitor Count](https://profile-counter.glitch.me/lxh11111/count.svg) visits
 
 ### Here are some ideas to get you started:
-- 🌱 I’m currently learning at Northeastern University(Shen Yang)
+- 🌱 I’m currently learning at Northeastern University(China)
 - 💻 My Blog (not update often): [CSDN](https://blog.csdn.net/lxh10358?spm=1000.2115.3001.5343)  [个人网站](https://lxh11111.github.io)
 - 📫 How to reach me: star04319@outlook.com
 - 🔭 My ideal pursuit: Astronomy Physics Astrophysics
@@ -57,8 +57,8 @@
 
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@lxh11111/9bed4426-8628-4ac9-96ea-d4f310b6c711.svg" width="310" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@lxh11111/20e001d5-a066-45ec-8b10-0a5d86a8edf4.svg" width="310" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@lxh11111/9bed4426-8628-4ac9-96ea-d4f310b6c711.svg" width="300" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@lxh11111/20e001d5-a066-45ec-8b10-0a5d86a8edf4.svg" width="300" alt="Wakatime"/></td>
   </tr>
 </table>
 
