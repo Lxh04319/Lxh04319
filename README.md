@@ -50,22 +50,15 @@
 
 <br/>  
 
-### 📊 WakaTime
+### 📊 WakaTime Record
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=lxh11111&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=lxh11111&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lxh11111&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
+[![wakatime](https://wakatime.com/badge/user/018c3a54-b4ef-4668-b255-0f543c73b52b.svg)](https://wakatime.com/@018c3a54-b4ef-4668-b255-0f543c73b52b)
 
-</td></tr>
-
-<tr><td>
+<table>
+  <tr>
+    <td><img src="https://wakatime.com/share/@lxh11111/9bed4426-8628-4ac9-96ea-d4f310b6c711.svg" width="310" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@lxh11111/20e001d5-a066-45ec-8b10-0a5d86a8edf4.svg" width="310" alt="Wakatime"/></td>
+  </tr>
+</table>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lxh11111&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
