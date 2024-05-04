@@ -52,7 +52,8 @@
 
 ### 📊 WakaTime Record
 
-[![wakatime](https://wakatime.com/badge/user/018c3a54-b4ef-4668-b255-0f543c73b52b.svg)](https://wakatime.com/@018c3a54-b4ef-4668-b255-0f543c73b52b)
+[![wakatime](https://wakatime.com/badge/user/018c3a54-b4ef-4668-b255-0f543c73b52b.svg)](https://wakatime.com/@018c3a54-b4ef-4668-b255-0f543c73b52b) 
+ 🌈 **From 2024.5.4 to today**
 
 <table>
   <tr>
