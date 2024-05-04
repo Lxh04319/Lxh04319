@@ -50,7 +50,7 @@
 
 <br/>  
 
-### 📊 WakaTime Record
+### WakaTime Record
 
 [![wakatime](https://wakatime.com/badge/user/018c3a54-b4ef-4668-b255-0f543c73b52b.svg)](https://wakatime.com/@018c3a54-b4ef-4668-b255-0f543c73b52b) 
  🌈 **From 2024.5.4 to today**
@@ -61,5 +61,7 @@
     <td><img src="https://wakatime.com/share/@lxh11111/20e001d5-a066-45ec-8b10-0a5d86a8edf4.svg" width="300" alt="Wakatime"/></td>
   </tr>
 </table>
+
+### Github Activity
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lxh11111&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
