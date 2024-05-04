@@ -46,9 +46,7 @@
 #### Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxh11111&layout=compact)
 
-</td></tr></table>  
-
-<br/>  
+</td></tr></table>   
 
 ### WakaTime Record
 
