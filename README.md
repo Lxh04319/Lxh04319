@@ -5,9 +5,9 @@
 
 ### Here are some ideas to get you started:
 - 🌱 I’m currently learning at Northeastern University(Shen Yang)
-- 💻 My Blog (Doesn't Update Often): [csdn](https://blog.csdn.net/lxh10358?spm=1000.2115.3001.5343)  [个人网站](https://lxh11111.github.io)
+- 💻 My Blog (not update often): [CSDN](https://blog.csdn.net/lxh10358?spm=1000.2115.3001.5343)  [个人网站](https://lxh11111.github.io)
 - 📫 How to reach me: star04319@outlook.com
-- 🔭 My ideal pursuit: astronomy physics astrophysics
+- 🔭 My ideal pursuit: Astronomy Physics Astrophysics
 
 ### My Skill Set  
 <table><tr><td valign="top" width="32%">
