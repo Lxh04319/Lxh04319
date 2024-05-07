@@ -1,11 +1,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=emm...;Hello+World+!&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
 
-# Up to now, there have been ![Visitor Count](https://profile-counter.glitch.me/lxh11111/count.svg) visits
+# Up to now, there have been ![Visitor Count](https://profile-counter.glitch.me/Lxh04319/count.svg) visits
 
 ### Here are some ideas to get you started:
 - 🌱 I’m currently studying at Northeastern University(China)
-- 💻 My Blog (not update often): [CSDN](https://blog.csdn.net/lxh10358?spm=1000.2115.3001.5343)  [个人网站](https://lxh11111.github.io)
+- 💻 My Blog (not update often): [CSDN](https://blog.csdn.net/lxh10358?spm=1000.2115.3001.5343)  [个人网站](https://Lxh04319.github.io)
 - 📫 How to reach me: star04319@outlook.com
 - 🔭 My ideal pursuit: Astronomy Physics Astrophysics
 
@@ -44,7 +44,7 @@
 </td><td valign="top" width="32%">
 
 #### Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxh11111&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lxh04319&layout=compact)
 
 </td></tr></table>   
 
@@ -53,4 +53,4 @@
 [![wakatime](https://wakatime.com/badge/user/018c3a54-b4ef-4668-b255-0f543c73b52b.svg)](https://wakatime.com/@018c3a54-b4ef-4668-b255-0f543c73b52b) 
  🌈 **From 2024.5.4 to today**
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lxh11111&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lxh04319&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
