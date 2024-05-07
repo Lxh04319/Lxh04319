@@ -50,7 +50,4 @@
 
 ### Record
 
-[![wakatime](https://wakatime.com/badge/user/018c3a54-b4ef-4668-b255-0f543c73b52b.svg)](https://wakatime.com/@018c3a54-b4ef-4668-b255-0f543c73b52b) 
- 🌈 **From 2024.5.4 to today**
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lxh04319&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
